@@ -29,7 +29,7 @@ Prerequisites
 
     Clone the repository to your local machine:
 
-    git clone https://github.com/gamzeyilmaaz/svelte-todo-list-manager.git
+    git clone https://github.com/gamzeyilmaaz/Svelte.git
     cd svelte-todo-list-manager
 
 2. Install Dependencies
